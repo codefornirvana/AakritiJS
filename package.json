@@ -1,0 +1,24 @@
+{
+  "name": "aakriti",
+  "version": "1.0.0",
+  "description": "This is a Javascript wrapper around mysql for intuitive data modelling and database management.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefornirvana/AakritiJS.git"
+  },
+  "keywords": [
+    "data",
+    "modelling",
+    "mysql"
+  ],
+  "author": "Ratul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codefornirvana/AakritiJS/issues"
+  },
+  "homepage": "https://github.com/codefornirvana/AakritiJS#readme"
+}

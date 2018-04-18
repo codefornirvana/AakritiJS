@@ -1,0 +1,9 @@
+{
+  "database" : {
+    "mode" : "RDBMS",
+    "user" : "root",
+    "host" : "localhost",
+    "password" : "Ratul@123",
+    "database" : "cms"
+  }
+}
